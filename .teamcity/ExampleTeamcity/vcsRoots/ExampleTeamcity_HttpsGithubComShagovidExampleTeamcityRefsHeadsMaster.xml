@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="9c2907bd-3c07-4474-a659-fdec3373881a" type="jetbrains.git" xsi:noNamespaceSchemaLocation="https://www.jetbrains.com/teamcity/schemas/2021.1/project-config.xsd">
+  <name>https://github.com/shagovid/example-teamcity#refs/heads/feature/add_reply</name>
+  <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
+  <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />
+  <param name="authMethod" value="PASSWORD" />
+  <param name="branch" value="refs/heads/feature/add_reply" />
+  <param name="ignoreKnownHosts" value="true" />
+  <param name="oauthProviderId" value="PROJECT_EXT_2" />
+  <param name="secure:password" value="credentialsJSON:dec6b8bc-d956-464e-9ac1-7931fe0f5085" />
+  <param name="submoduleCheckout" value="CHECKOUT" />
+  <param name="teamcity:branchSpec" value="refs/heads/*" />
+  <param name="url" value="https://github.com/shagovid/example-teamcity" />
+  <param name="useAlternates" value="AUTO" />
+  <param name="username" value="shagovid" />
+  <param name="usernameStyle" value="USERID" />
+</vcs-root>
+
